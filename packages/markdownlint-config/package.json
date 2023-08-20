@@ -1,0 +1,30 @@
+{
+  "name": "@yrui/markdownlint-config",
+  "version": "1.0.0",
+  "description": "markdown lint 配置",
+  "main": "index.js",
+  "keywords": [
+    "yrui",
+    "markdown",
+    "lint"
+  ],
+  "author": "yrui",
+  "homepage": "https://github.com/yrui-ql/fe-lint/packages/markdownlint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yrui-ql/fe-lint"
+  },
+  "bugs": {
+    "url": "https://github.com/yrui-ql/fe-lint/issues"
+  },
+  "scripts": {
+    "publish": ""
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "markdownlint": "^0.30.0"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.30.0"
+  }
+}

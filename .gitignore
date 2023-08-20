@@ -1,0 +1,17 @@
+# os
+.vscode
+
+# cache\lock
+.cache
+node_modules/
+pnpm-lock.yaml
+
+# building
+dist/
+build/
+lib/
+es/
+
+# test
+coverage/
+release/

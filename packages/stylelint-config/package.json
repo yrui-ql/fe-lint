@@ -1,0 +1,33 @@
+{
+  "name": "@yrui/stylelint-config",
+  "version": "1.0.0",
+  "description": "个人使用的 css style 配置",
+  "main": "index.js",
+  "keywords": [
+    "yrui",
+    "style",
+    "lint"
+  ],
+  "author": "yrui",
+  "homepage": "https://github.com/yrui-ql/fe-lint/packages/stylelint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yrui-ql/fe-lint"
+  },
+  "bugs": {
+    "url": "https://github.com/yrui-ql/fe-lint/issues"
+  },
+  "scripts": {
+    "publish": ""
+  },
+  "peerDependencies": {
+    "stylelint": ">=8.3.0",
+    "stylelint-scss": ">=2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2",
+    "stylelint": "^15.10.3",
+    "stylelint-scss": "^5.1.0"
+  },
+  "license": "ISC"
+}
