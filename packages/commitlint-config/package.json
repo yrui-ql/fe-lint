@@ -1,0 +1,27 @@
+{
+  "name": "@yrui/commitlint-config",
+  "version": "1.0.0",
+  "description": "个人使用的commitlint 配置",
+  "main": "index.js",
+  "keywords": [
+    "yrui",
+    "commit",
+    "lint"
+  ],
+  "author": "yrui",
+  "homepage": "https://github.com/yrui-ql/fe-lint/packages/commitlint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yrui-ql/fe-lint"
+  },
+  "bugs": {
+    "url": "https://github.com/yrui-ql/fe-lint/issues"
+  },
+  "scripts": {
+    "publish": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^6.1.0"
+  }
+}
