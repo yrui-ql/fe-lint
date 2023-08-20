@@ -1,5 +1,5 @@
 {
-  "name": "@yrui/fe-lint",
+  "name": "@yrui/fe-lint-cli",
   "version": "1.0.0",
   "description": "个人向的前端代码规范整合",
   "main": "index.js",
