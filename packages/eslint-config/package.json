@@ -1,8 +1,9 @@
 {
   "name": "@yrui/eslint-config",
   "version": "1.0.0",
-  "main": "index.js",
   "description": "个人使用的 eslint 配置",
+  "main": "index.js",
+  "author": "yrui",
   "keywords": [
     "yrui",
     "javaScript",
@@ -10,12 +11,6 @@
     "node",
     "lint"
   ],
-  "scripts": {
-    "lint": "eslint ./",
-    "test": "mocha ./__tests__/*.test.js --timeout 5000",
-    "print-config": "eslint --print-config ./index.js > ./print-config.json"
-  },
-  "author": "yrui",
   "homepage": "https://github.com/yrui-ql/fe-lint/packages/eslint-config#readme",
   "license": "ISC",
   "repository": {
@@ -24,6 +19,11 @@
   },
   "bugs": {
     "url": "https://github.com/yrui-ql/fe-lint/issues"
+  },
+  "scripts": {
+    "lint": "eslint ./",
+    "test": "mocha ./__tests__/*.test.js --timeout 5000",
+    "print-config": "eslint --print-config ./index.js > ./print-config.json"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
